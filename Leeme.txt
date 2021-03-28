@@ -1,0 +1,22 @@
+-Pagina web de ONG para adopcion de animales.
+
+-Esta realizada en html5 y css, ademas contiene imagenes.
+
+-Esta compuesta por una serie de hipervinculos, algunos anidados a una imagen como puede ser el del logo que se encuentra en la parte 
+ superior izquierda de la pagina, a un costado del titulo, Este hipervinculo nos lleva siempre al punto inicial o mejor dicho a la pantalla de inicio
+ u como esta nombrada INDEX.
+
+-En la pantalla principal tambien contamos con una lista desplegable con el nombre y cargo de la gente a cargo de la Ong.
+ Cuenta con dos cuadros divididos donde cada uno se caracteriza en mostrar caracteristicas de los perros y de gatos.
+ En cada recuadro existe un hipervinculo que nos lleva a las siguientes paginas, un hipervinculo anidado a una imagen y el otro hipervinculo anidado a una pequeña parte del texto.
+
+-En la siguiente pagina de gatito y perritos encontramos descripcion de los animales que se encuentran disponibles para la adopcion.
+encontramos un hipervinculo en el area de de texto que dice adoptame aqui, y un hipervinculu anidado a la imagen del animal, tambien
+encontramos un hipervinculo anidado al logo de la Ong ubicado en la parte superior de la pagina, al costado izquierdo del titulo.
+
+-Al momento de presionar el hipervinculo adoptame aqui o en la correspondiente imagen del animal este nos envia a una nueva pantalla con la descripcion
+del animal y una lista anidada con su respectiva informacion, en caso de que se quiera volver a la pantalla anterior presionamos en el texto seguir mirando gatitos
+que cuenta con un hipervinculo anidado, y en caso de querer volver a la pantalla de inicio presionamos en el logo que cuenta con un hipervinculo
+anidado a la imagen y nos lleva a la pagina de inicio o bien nombrada Index.
+
+-Link repositorio Github. https://github.com/Nicolasabar/ONG-Animales-PaginaWeb.git
